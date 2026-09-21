@@ -1,6 +1,6 @@
 cask "pr-watcher" do
   version "1.0.1"
-  sha256 "25906c13f9a9df03ccd5df979d75e1fa366697fae8fd20ad93d95d1e3c071778"
+  sha256 "713aee7858259c4d327fe278bbe95082511f8efd6fa111c5d94903a6d0e3fd37"
 
   url "https://github.com/noonyuu/homebrew-pr-watcher/releases/download/v#{version}/PRWatcher.zip"
   name "PR Watcher"
