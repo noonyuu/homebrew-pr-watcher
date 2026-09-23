@@ -5,7 +5,7 @@ PR Watcher用の Homebrew tap です。
 ## インストール
 
 ```bash
-brew install --cask pr-watcher
+brew install --cask noonyuu/pr-watcher/pr-watcher
 ```
 
 ## アップデート
